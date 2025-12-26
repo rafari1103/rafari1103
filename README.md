@@ -1,16 +1,33 @@
-## Hi there 👋
+## Olá, eu sou a Rafaela Ribeiro 👋
 
-<!--
-**rafari1103/rafari1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Frontend em formação, com foco em HTML, CSS e JavaScript.  
+Atualmente estudo desenvolvimento web e construo projetos práticos para consolidar a base.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 O que estou fazendo agora
+- 📌 Desenvolvendo projetos frontend com HTML, CSS e JavaScript.
+- 🌱 Aprendendo boas práticas de código, semântica HTML e lógica de programação.
+- 🧠 Evoluindo de forma consistente com constância.
+
+---
+
+### 🚀 Tecnologias em estudo
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+### 📫 Como falar comigo
+<a href="mailto:rafaelaribeiro1103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+<a href="https://www.linkedin.com/in/rafaela-ribeiro-084673178/">
+  <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+</a>
+
+---
+
+### 📁 Meus projetos
+Todos os meus projetos de estudo e prática estão disponíveis aqui no GitHub. 
