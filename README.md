@@ -8,7 +8,7 @@ Atualmente estudo desenvolvimento web e construo projetos práticos para consoli
 ### 💻 O que estou fazendo agora
 - 📌 Desenvolvendo projetos frontend com HTML, CSS e JavaScript.
 - 🌱 Aprendendo boas práticas de código, semântica HTML e lógica de programação.
-- 🧠 Evoluindo de forma consistente com constância.
+- 🧠 Mantendo a constância
 
 ---
 
