@@ -3,7 +3,7 @@
 Sou desenvolvedora frontend em formação, com foco em HTML, CSS e JavaScript.  
 Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e também me desenvolvo por meio de cursos livres, estudos práticos e projetos pessoais.
 
----
+
 
 ### 🎯 Foco atual
 
@@ -12,7 +12,6 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e també
 - Consolidação da lógica de programação  
 - Constância e aprendizado contínuo
 
----
 
 ### 🧪 Tecnologias em estudo
 
@@ -21,14 +20,14 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e també
 - JavaScript  
 - Git & GitHub
 
----
+
 
 ### 🌐 Como me encontrar
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rafaelaribeiro1103@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rafaela-ribeiro-084673178/)
 
----
+
 
 ### 📁 Repositórios
 
