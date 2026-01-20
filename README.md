@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Rafaela Ribeiro 👩‍💻
 
 Sou desenvolvedora frontend em formação, com foco em HTML, CSS e JavaScript.  
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na Estácio e também me desenvolvo por meio de cursos livres, estudos práticos e projetos pessoais.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e também me desenvolvo por meio de cursos livres, estudos práticos e projetos pessoais.
 
 
 
